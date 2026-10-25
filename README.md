@@ -1,0 +1,2 @@
+# renpy2nsp
+一款可将renpy游戏工程转换为switch可运行的nsp格式工具
